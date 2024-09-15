@@ -6,6 +6,55 @@
 # Description
 The game is played on a grid that's 3 squares by 3 squares. You are X , your friend (or the computer in this case) is O . Players take turns putting their marks in empty squares. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
 
+## Installation
+
+To run this application locally, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/hackers470/Tic_Tac_Toe.git
+    cd Tic_Tac_Toe
+    ```
+
+2. **Create and activate a virtual environment:**
+
+    ```bash
+    python -m venv env
+    source env/bin/activate  # On Windows use: env\Scripts\activate
+    ```
+
+3. **Install the required packages:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Apply database migrations:**
+
+    ```bash
+    python manage.py migrate
+    ```
+
+5. **Create a superuser (optional, for admin access):**
+
+    ```bash
+    python manage.py createsuperuser
+    ```
+
+6. **Run the development server:**
+
+    ```bash
+    python manage.py runserver
+    ```
+
+7. **Open your browser and navigate to:**
+
+    ```
+    [http://127.0.0.1:8000/](http://127.0.0.1:5500/INDEX.HTML)
+    ```
+
+
 # Features
 <p>The features of Tic Tac Toe game is : </p>
 <ul>
