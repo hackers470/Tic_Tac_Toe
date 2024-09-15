@@ -51,7 +51,7 @@ To run this application locally, follow these steps:
 7. **Open your browser and navigate to:**
 
     ```
-    [http://127.0.0.1:8000/](http://127.0.0.1:5500/INDEX.HTML)
+    http://127.0.0.1:5500/INDEX.HTML
     ```
 
 
