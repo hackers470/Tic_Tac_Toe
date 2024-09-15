@@ -14,8 +14,7 @@ The game is played on a grid that's 3 squares by 3 squares. You are X , your fri
 <li>Every player may choose a letter between X and O.</li>
 <li>Both players will get their chances to turn by turn.</li>
 </ul>
-# Screenshots
- <img src=""C:\Users\Shivam Agarwal\OneDrive\Pictures\Screenshots\Screenshot 2024-09-16 000825.png"">
+
 # Tech Used
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
       
