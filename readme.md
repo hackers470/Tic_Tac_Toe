@@ -20,7 +20,6 @@ The game is played on a grid that's 3 squares by 3 squares. You are X , your fri
       
 
  
-![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
 
 
       
